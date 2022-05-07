@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QwertyBytes
 - 👀 I’m interested in all things Python
-- 🌱 I’m currently working on a Bacchelor of IT 
+- 🌱 I’m currently working on a Bachelor of IT 
 - 💞️ I’m looking to collaborate on a a project suitable for beginners
 - 📫 How to reach me ...
 
