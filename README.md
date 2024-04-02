@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QwertyBytes
-- 👀 I’m interested in all things JavaScript and web development.
-- 🌱 I’m currently enrolled in a Bachelor of Arts and work in the Civil Engineering sector.
+- 👀 I’m interested in all things software development, web development, cyber security and data science.
+- 🌱 I’m currently enrolled in a Bachelor of Computer Science and work in the Civil Engineering sector.
 - 💞️ I’m looking to collaborate on a project that's suitable for beginners
 - 📫 How to reach me ...
 
